@@ -10,6 +10,9 @@ ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motio
 
 Tongyi Lab, Alibaba Group
 
+[Project Page](https://humanaigc.github.io/chat-anyone/),
+[Paper](https://arxiv.org/abs/2503.21144)
+
 ![Teaser Image](content/inference_pipeline.png "Teaser")
 
 ## Citation	
