@@ -18,6 +18,7 @@ Tongyi Lab, Alibaba Group
 @article{qi2025chatanyone,
   title={ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model},
   author={Jinwei Qi and Chaonan Ji and Sheng Xu and Peng Zhang and Bang Zhang and Liefeng Bo},
+  journal={arXiv preprint:2503.21144},
   year={2025}
 }
 ```
